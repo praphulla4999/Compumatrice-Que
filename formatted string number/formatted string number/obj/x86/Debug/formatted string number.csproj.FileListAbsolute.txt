@@ -1,0 +1,5 @@
+c:\users\praphulla\documents\visual studio 2010\Projects\formatted string number\formatted string number\bin\Debug\formatted string number.exe
+c:\users\praphulla\documents\visual studio 2010\Projects\formatted string number\formatted string number\bin\Debug\formatted string number.pdb
+c:\users\praphulla\documents\visual studio 2010\Projects\formatted string number\formatted string number\obj\x86\Debug\formatted string number.exe
+c:\users\praphulla\documents\visual studio 2010\Projects\formatted string number\formatted string number\obj\x86\Debug\formatted string number.pdb
+C:\Users\Praphulla\Documents\Visual Studio 2010\Projects\formatted string number\formatted string number\obj\x86\Debug\formatted string number.csprojResolveAssemblyReference.cache
